@@ -1,0 +1,15 @@
+A simple web application by python
+
+
+SMS
+   app/
+       app.py
+    templates/
+        index.html
+        list.html
+    static/
+        css/
+        js/
+        img/
+    readme.md
+    
